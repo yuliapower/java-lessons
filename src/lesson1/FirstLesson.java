@@ -1,3 +1,5 @@
+package lesson1;
+
 public class FirstLesson {
     /*
     многострочный комм
@@ -39,6 +41,8 @@ num %=10; //num = num % 10;
         int start =3, end =5000;
         int res = start > end ? end -start:0;
         System.out.println(res);
+
+        //оператор + - складывает и возвращает
 
 
     }
